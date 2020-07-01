@@ -28,6 +28,7 @@ pip install -r requirements.txt
 cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
+```
 
 ### @BotFather commands
 
