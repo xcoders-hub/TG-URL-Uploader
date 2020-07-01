@@ -13,7 +13,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### The Easiest Way
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 #### The Easy Way
 
