@@ -1,4 +1,4 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot) - Clone
+## URL Uploader Bot
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
@@ -54,10 +54,11 @@ generatescss - Generate SCreenShotS of Telegram media
 
 ## Credits, and Thanks to
 
+* [@SpEcHlDe](https://telegram.dog/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+- For FeedBack and Suggestions, please feel free to send me a message in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
 
 #### LICENSE
 - GPLv3
